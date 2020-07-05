@@ -1,8 +1,7 @@
-host: rakyll.pizza
+host: go.appscode.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /cluster-connector:
+    repo: https://github.com/appscode/cluster-connector
+  /virtual-kubernetes:
+    repo: https://github.com/appscode/virtual-kubernetes
