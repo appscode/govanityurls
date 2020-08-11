@@ -3,5 +3,7 @@ host: go.appscode.dev
 paths:
   /cluster-connector:
     repo: https://github.com/appscode/cluster-connector
+  /offline-license-server:
+    repo: https://github.com/appscode/offline-license-server
   /virtual-kubernetes:
     repo: https://github.com/appscode/virtual-kubernetes
