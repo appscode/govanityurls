@@ -1,6 +1,8 @@
 host: go.appscode.dev
 
 paths:
+  /auditor:
+    repo: https://github.com/appscode/auditor
   /cluster-connector:
     repo: https://github.com/appscode/cluster-connector
   /offline-license-server:
