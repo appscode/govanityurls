@@ -6,7 +6,7 @@
     "appscode-govanityurls": {
       "hosting": {
         "hugo": [
-          "gomodules-govanityurls"
+          "appscode-govanityurls-76423"
         ]
       }
     }
