@@ -7,5 +7,7 @@ paths:
     repo: https://github.com/appscode/cluster-connector
   /offline-license-server:
     repo: https://github.com/appscode/offline-license-server
+  /products:
+    repo: https://github.com/appscode/products
   /virtual-kubernetes:
     repo: https://github.com/appscode/virtual-kubernetes
