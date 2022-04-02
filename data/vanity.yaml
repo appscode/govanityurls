@@ -1,6 +1,8 @@
 host: go.appscode.dev
 
 paths:
+  /alerts:
+    repo: https://github.com/appscode/alerts
   /b3:
     repo: https://github.com/appscode/b3
   /cluster-connector:
